@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Anakin Skywalker",
+      "email": "anakin@skywalker.com",
+      "age": 50
+    },
+    {
+      "id": "2",
+      "name": "Luke Skywalker",
+      "email": "luke@skywalker.com",
+      "age": 30
+    },
+    {
+      "id": "3",
+      "name": "Obi Wan Kenobi",
+      "email": "obiwan@kenobi.com",
+      "age": 60
+    },
+    {
+      "name": "Iliya Mohamad Lokman",
+      "email": "iliya@starkiller.com",
+      "age": 17,
+      "id": "Wf0wEtS"
+    }
+  ]
+}
